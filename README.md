@@ -13,10 +13,10 @@
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mor4n&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mor4n&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/> </p>
+<img align="left" width="503px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mor4n&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Mor4n&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
 
-
+<br/>
 <p align="center"><img src="https://64.media.tumblr.com/d11513f2d1c3bb9de402e0e3e810f322/7189806760bf49e3-bc/s540x810/ed4a27e2c3b9fc1e54043ab1f710b26b9d1f4f0f.gif"></p>
 <p align="center"><i>My all-time favorite song is MONDO GROSSO - Labyrinth</i></p>
 <!--
